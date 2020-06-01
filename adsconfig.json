@@ -1,0 +1,19 @@
+{
+  "ids": [
+    {
+   "admob_app_id":"ca-app-pub-2606112376965550~4672060539",
+   "admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
+   "admob_interstitial_id":"ca-app-pub-3940256099942544/1033173712",
+   "admob_banner_enabled":true,
+   "admob_interstitial_enabled":true,
+   "interval":1
+    },
+    {
+      "facebook_interstitial_id":"745413049241029_745415059240828",
+      "facebook_banner_id":"745413049241029_755747484874252",
+      "facebook_banner_enabled":false,
+      "facebook_interstitial_enabled":false
+    }
+   
+  ]
+}
